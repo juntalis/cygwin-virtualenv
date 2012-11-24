@@ -1,0 +1,2 @@
+#define PYTHON_ICON 0
+PYTHON_ICON ICON "python.ico"

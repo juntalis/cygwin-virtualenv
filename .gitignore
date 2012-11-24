@@ -1,0 +1,21 @@
+# Python stuff
+*.vip
+*.py[co]
+
+# Output files from debug build
+*.pdb
+*.ilk
+
+# Object Files/Folder
+obj
+*.o
+*.obj
+
+# Bin files
+*.exe
+*.dll
+bin
+
+# Resource stuff
+*.res
+*.ico
