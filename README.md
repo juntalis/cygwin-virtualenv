@@ -72,53 +72,7 @@ Example:
 	# [1] "-v"
 	# [2] "/home/Charles/workspace/sshfavs/sshfavs.py"
 	# installing zipimport hook
-	import zipimport # builtin
-	# installed zipimport hook
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/site.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/site.py
-	import site # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/site.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/os.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/os.py
-	import os # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/os.pyc
-	import errno # builtin
-	import posix # builtin
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/posixpath.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/posixpath.py
-	import posixpath # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/posixpath.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/stat.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/stat.py
-	import stat # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/stat.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/genericpath.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/genericpath.py
-	import genericpath # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/genericpath.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/warnings.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/warnings.py
-	import warnings # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/warnings.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/linecache.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/linecache.py
-	import linecache # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/linecache.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/types.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/types.py
-	import types # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/types.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/UserDict.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/UserDict.py
-	import UserDict # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/UserDict.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_abcoll.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_abcoll.py
-	import _abcoll # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_abcoll.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/abc.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/abc.py
-	import abc # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/abc.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_weakrefset.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_weakrefset.py
-	import _weakrefset # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/_weakrefset.pyc
-	import _weakref # builtin
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/copy_reg.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/copy_reg.py
-	import copy_reg # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/copy_reg.pyc
-	# zipimport: found 78 names in /home/Charles/workspace/sshfavs/.vip/lib/python2.7/site-packages/setuptools-0.6c11-py2.7.egg
-	import encodings # directory /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/__init__.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/__init__.py
-	import encodings # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/__init__.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/codecs.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/codecs.py
-	import codecs # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/codecs.pyc
-	import _codecs # builtin
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/aliases.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/aliases.py
-	import encodings.aliases # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/aliases.pyc
-	# /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/utf_8.pyc matches /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/utf_8.py
-	import encodings.utf_8 # precompiled from /home/Charles/workspace/sshfavs/.vip/lib/python2.7/encodings/utf_8.pyc
-	Python 2.7.3+ (2.7:2f0770cc6d3f+, Nov 18 2012, 21:40:00)
-	[GCC 4.5.3] on cygwin
-	Type "help", "copyright", "credits" or "license" for more information.
-	Hello, World
-	# clear __builtin__._
+	...
 
 ##### Building
 
